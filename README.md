@@ -61,8 +61,8 @@
 
 ### 📫 Let’s Connect
 
-- 🔗 GitHub: [@ChiragRoshan](https://github.com/ChiragRoshan)
-- 💼 LinkedIn: [linkedin.com/in/chirag-roshan](https://linkedin.com/in/chirag-roshan)
+- 🔗 GitHub: [@ChiragRoshan](https://github.com/chiragroshan18)
+- 💼 LinkedIn: [linkedin.com/in/chirag-roshan](https://www.linkedin.com/in/chirag-roshan18/)
 - 📱 Portfolio Website: Coming Soon...
 
 ---
