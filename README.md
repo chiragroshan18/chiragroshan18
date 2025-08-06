@@ -63,6 +63,7 @@
 
 - 🔗 GitHub: [@ChiragRoshan](https://github.com/chiragroshan18)
 - 💼 LinkedIn: [linkedin.com/in/chirag-roshan](https://www.linkedin.com/in/chirag-roshan18/)
+- 🚀 Devpost: [devpost.com/roshanchirag374](https://devpost.com/roshanchirag374?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - 📱 Portfolio Website: Coming Soon...
 
 ---
