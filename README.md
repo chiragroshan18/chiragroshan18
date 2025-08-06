@@ -99,8 +99,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chiragroshan18&show_icons=true&theme=github_dark&include_all_commits=true" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chiragroshan18&theme=github-dark-blue&hide_border=true" width="60%"/>
-</p>
+
 
 > 🛠️ “I build solutions that grow — just like the crops I automate.”
