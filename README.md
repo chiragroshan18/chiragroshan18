@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hello, I'm Chirag Roshan</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&width=435&lines=👋+Hello%2C+I'm+Chirag+Roshan" alt="Typing animation" />
+</h1>
+
 
 🎓 **B.E. Computer Science & Engineering**  
 📍 **Prathyusha Engineering College**  
@@ -86,7 +89,18 @@
 - 💼 LinkedIn: [linkedin.com/in/chirag-roshan](https://www.linkedin.com/in/chirag-roshan18/)
 - 🚀 Devpost: [devpost.com/roshanchirag374](https://devpost.com/roshanchirag374?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - 📱 Portfolio Website: Coming Soon...
+  
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragroshan18&layout=compact&theme=github_dark&hide=html,css&langs_count=6" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragroshan18&show_icons=true&theme=github_dark&include_all_commits=true" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chiragroshan18&theme=github-dark-blue&hide_border=true" width="60%"/>
+</p>
 
 > 🛠️ “I build solutions that grow — just like the crops I automate.”
