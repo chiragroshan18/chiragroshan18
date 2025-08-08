@@ -92,16 +92,6 @@
   
 
 ---
-### 📈 GitHub Stats
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragroshan18&layout=compact&theme=github_dark&hide=html,css,scss&langs_count=6&hide_border=true" width="45%" alt="Chirag's Top Languages"/>
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragroshan18&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&count_private=true" width="45%" alt="Chirag's GitHub Stats"/>
-</p>
-
 
 
 
