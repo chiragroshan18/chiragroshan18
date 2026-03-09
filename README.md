@@ -1,43 +1,47 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&width=435&lines=👋+Hello%2C+I'm+Chirag+Roshan" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&width=435&lines=👋+Hello%2C+I'm+Chirag+Roshan;🚀+Building+Smart+Tech+Solutions;💻+CSE+Student+%7C+IoT+%7C+AI+Enthusiast" alt="Typing animation" />
 </h1>
 
-
-🎓 **B.E. Computer Science & Engineering**  
-📍 **Prathyusha Engineering College**  
-🌱 Passionate about solving real-world problems using code, automation, and intelligent systems.
-
----
-
-### 🚀 What I'm Working On
-
-💧 **AquaNutraSense** – *Smart Hydroponic Monitoring & Control System*  
-👨‍🌾 Hackathon Project under Agriculture & Horticulture  
-- 🌿 Real-time water level & nutrient monitoring (pH, EC, TDS)  
-- 🔁 Auto-irrigation with timers & alerts  
-- 📲 Mobile & Cloud dashboard using Blynk + Web App  
-- 🎯 Aim: Reduce farmer labor & improve sustainability in open fields and home gardens.
+🎓 **B.E. Computer Science & Engineering (2nd Year)**  
+📍 **Prathyusha Engineering College, Chennai**  
+🌱 Passionate about building **real-world technology solutions** using code, automation, IoT, and intelligent systems.
 
 ---
 
-### 🧠 Currently Learning
-- 🕸️ Full-Stack Web Development (HTML, CSS, JS, APIs)
-- 📡 IoT Automation + Cloud Integration
-- 🧠 Machine Learning Basics (for Smart Agro Solutions)
+### 🚀 What I'm Building
+
+💧 **AquaNutraSense** – *Intelligent Hydroponic Monitoring & Control System*  
+👨‍🌾 Hackathon Project focused on **Smart Agriculture & Sustainable Farming**
+
+- 🌱 Tracks **water levels and nutrient quality** using pH, EC, and TDS sensors  
+- ⚙️ Automated irrigation logic that adjusts watering cycles based on plant needs  
+- 📊 Live monitoring through **cloud dashboard + mobile interface**  
+- 🔔 Smart alerts when nutrient balance or water levels go out of range  
+- 📡 Sensor-driven automation designed for **home growers and small-scale farmers**  
+- 🎯 Vision: Make **precision farming simple, affordable, and accessible**
+
+---
+
+### 🧠 Currently Exploring
+
+- 🌐 **Full-Stack Development** – building responsive web apps and dashboards  
+- 🔗 **IoT + Cloud Connectivity** – connecting sensors, microcontrollers, and cloud APIs  
+- 🤖 **Applied Machine Learning** – learning how data can improve automation decisions  
+- ☁️ **Cloud Services & APIs** – real-time data handling and remote device monitoring  
 
 ---
 
 ### 🛠️ Skills & Tools
 
-| Domain             | Tools / Skills |
-|--------------------|----------------|
+| Domain | Tools / Skills |
+|------|------|
 | 💻 Web Development | HTML, CSS, JavaScript, DOM, Responsive UI |
-| 🎨 UI/UX Design    | Figma (basic), Wireframing, Smart Dashboards |
-| 🌐 IoT & Automation| Blynk Cloud, Sensors, REST APIs, Automation Logic |
-| ☁️ Cloud & APIs    | Firebase, Blynk REST API, JSON |
-| 🔣 Programming     | Python, C++, Java, SQL, Problem Solving |
-| 🔧 Dev Tools       | Git & GitHub, VS Code, GitHub Pages |
-| 🤝 Soft Skills     | Teamwork, Presentation, Hackathon Experience |
+| 🎨 UI/UX Design | Figma (basic), Wireframing, Smart Dashboards |
+| 🌐 IoT & Automation | Blynk Cloud, Sensors, REST APIs, Automation Logic |
+| ☁️ Cloud & APIs | Firebase, Blynk REST API, JSON |
+| 🔣 Programming | Python, C++, Java, SQL, Problem Solving |
+| 🔧 Dev Tools | Git & GitHub, VS Code, GitHub Pages |
+| 🤝 Soft Skills | Teamwork, Technical Presentation, Hackathon Collaboration |
 
 ---
 
@@ -74,12 +78,13 @@
 
 ---
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 
-- 💼 Land a top-tier internship in Tech, IoT, or AI  
-- 🌐 Deploy real-world full-stack + IoT projects  
-- 🛠️ Build open-source tools for AgriTech & Automation  
-- 📱 Integrate AI + IoT for social impact projects  
+- 💼 Secure a **high-impact internship** in Software Development, IoT, or AI  
+- 🚀 Build **real-world full-stack + IoT integrated applications**  
+- 🌍 Contribute to **open-source projects** in automation and AgriTech  
+- 🤖 Develop **AI + IoT solutions** for smart agriculture and sustainability  
+- 🌐 Launch my **personal developer portfolio website**
 
 ---
 
@@ -88,11 +93,8 @@
 - 🔗 GitHub: [@ChiragRoshan](https://github.com/chiragroshan18)
 - 💼 LinkedIn: [linkedin.com/in/chirag-roshan](https://www.linkedin.com/in/chirag-roshan18/)
 - 🚀 Devpost: [devpost.com/roshanchirag374](https://devpost.com/roshanchirag374?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- 📱 Portfolio Website: Coming Soon...
-  
+- 📱 Portfolio Website: **Coming Soon...**
 
 ---
 
-
-
-> 🛠️ “I build solutions that grow — just like the crops I automate.”
+> 🌱 “I build technology that solves real problems — from code to crops.”
