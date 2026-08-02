@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&width=435&lines=👋+Hello%2C+I'm+Chirag+Roshan;🚀+Building+Smart+Tech+Solutions;💻+CSE+Student+%7C+IoT+%7C+AI+Enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&width=435&lines=👋+Hello%2C+I'm+Chirag+Roshan;🚀+Building+Smart+Tech+Solutions;💻+CSE+Student+%7C+IoT+%7C+AI" alt="Typing animation" />
 </h1>
 
 🎓 **B.E. Computer Science & Engineering (2nd Year)**  
@@ -98,3 +98,14 @@
 ---
 
 > 🌱 “I build technology that solves real problems — from code to crops.”
+
+ ---
+> ## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=chiragroshan18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=chiragroshan18&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chiragroshan18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+
