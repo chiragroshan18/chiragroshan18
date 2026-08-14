@@ -82,7 +82,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="roshanchirag374@gmail.com">
+<a href="mailto:roshanchirag374@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
